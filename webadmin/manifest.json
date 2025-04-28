@@ -1,6 +1,6 @@
 {
-  "short_name": "Synapse-Admin",
-  "name": "Synapse-Admin",
+  "short_name": "WebAdmin",
+  "name": "WebAdmin",
   "icons": [
     {
       "src": "favicon.ico",
